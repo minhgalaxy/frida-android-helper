@@ -1,6 +1,6 @@
 # Frida Android Helper
 
-This is a modified version of ![Frida Android Helper](https://github.com/Hamz-a/frida-android-helper) to compatible with LDPlayer.
+This is a modified version of [Frida Android Helper](https://github.com/Hamz-a/frida-android-helper) to compatible with LDPlayer.
 
 ![preview](preview.png?raw=true)
 
